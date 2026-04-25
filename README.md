@@ -75,18 +75,38 @@ I am currently seeking a **Software Developer**, **Web Developer**, or **Full-St
 
 ---
 
-## 📊 GitHub Stats
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostakin-MF&show_icons=true&theme=radical&count_private=true" alt="KHR47's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostakin-MF&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KHR47&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHR47&layout=compact&theme=radical&hide_border=true" height="180"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mostakin-MF&theme=radical" alt="GitHub Streak" />
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=KHR47&theme=radical&hide_border=true"/>
+
 </div>
 
----
+<div align="center">
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KHR47&theme=react-dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=KHR47&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
 
 
 
